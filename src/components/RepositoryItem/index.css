@@ -1,0 +1,37 @@
+.li-container-item {
+  background-color: #f8f8ff;
+  width: 250px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  border-radius: 10px;
+}
+.img-item {
+  width: 100px;
+}
+.main-name {
+  color: #e73959;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 600;
+  text-align: start;
+}
+.sub-li-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.stars {
+  width: 30px;
+  margin-right: 8px;
+}
+.para {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 17px;
+  text-align: left;
+}

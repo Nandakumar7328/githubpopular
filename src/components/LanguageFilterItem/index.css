@@ -1,0 +1,24 @@
+.li-container {
+  margin: 10px;
+}
+.btn-decorated {
+  border: solid 1px #0284c7;
+  font-weight: 'Roboto';
+  font-weight: 800;
+  color: #0284c7;
+  cursor: pointer;
+  border-radius: 15px;
+  font-size: 20px;
+  padding: 6px;
+  background-color: transparent;
+}
+.btn-none-decorated {
+  font-weight: 'Roboto';
+  font-size: 20px;
+  border-width: 0px;
+  font-weight: 800;
+  padding: 6px;
+  cursor: pointer;
+  color: #1e293b;
+  background-color: transparent;
+}
